@@ -267,7 +267,7 @@ h4 {
 }
 
 .banner .container .caption {
-    padding-top: 180px;
+    padding-top: 140px;
 }
 
 .banner .container .caption h1 {
@@ -275,7 +275,7 @@ h4 {
 }
 
 .banner .container .caption p {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .banner .container .caption .btn {
@@ -283,7 +283,7 @@ h4 {
 }
 
 .banner .container .caption img {
-    width: 800px;
+    width: 650px;
 }
 
 /*=======================================================
