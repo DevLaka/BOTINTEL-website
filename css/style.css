@@ -307,6 +307,9 @@ h4 {
     padding: 15px 25px;
 }
 
+.img-fluid2{
+    padding: 5px 2px;
+}
 #services p {
     margin: 25px 0;
 }
@@ -652,6 +655,7 @@ h4 {
 
 #team .member h4 {
     margin-top: 15px;
+    color: #000;
 }
 
 #team .member h4:after {

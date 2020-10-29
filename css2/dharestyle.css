@@ -4,7 +4,7 @@ button {
 
 .slide-content > .container > .row > .col-2 > svg {
   margin-top: 15px;
-  fill: #FFC107;
+  fill: #068BEA;
   padding-bottom: 10px;
 }
 
@@ -33,8 +33,8 @@ button {
   float: right;
   font-weight: bold;
   border-radius: 2px;
-  border: 1px solid #FFC107;
-  color: #FFC107;
+  border: 1px solid #068BEA;
+  color:#068BEA;
   background-color: #FFF;
 }
 
@@ -45,21 +45,20 @@ button {
 .view-button:hover {
   box-shadow: 0px 5px 10px 0px rgba(36, 7, 31, 0.21);
   transition: 0.3s all;
-  background-color: #FFC107;
+  background-color: #068BEA;
   color: #FFF;
 }
 
-.slide-card {
-  margin: 30px 50px;
-  background-color: #FFF;
-  border-radius: 2px;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-  border-bottom: 3px solid #FFC107;
-  height: 275px;
-  box-shadow: 0px 12px 49px 0px rgba(36, 7, 31, 0.11);
-}
-
+.slide-card{
+  padding: 12px 16px;
+    background-color: #FFF;
+    border-radius: 2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom: 3px solid#068BEA;
+    height: auto;
+    box-shadow: 0px 12px 49px 0px rgba(36, 7, 31, 0.11);
+  }
 .slide-cover {
   height: 200px;
   background-color: #333;
@@ -140,7 +139,7 @@ button {
   width: 16px;
   height: 10px;
   position: absolute;
-  background: linear-gradient(to bottom, #02aab0 0%, #00cdac 100%);
+  background: linear-gradient(to bottom, #068BEA 0%, #1166a3 100%);
   z-index: 5;
   left: 0;
   right: 0;
@@ -151,7 +150,7 @@ button {
 }
 
 .timeline .hexa:before {
-  border-bottom: 4px solid #00cdac;
+  border-bottom: 4px solid #1166a3;
   border-left-width: 8px;
   border-right-width: 8px;
   top: -4px;
@@ -160,7 +159,7 @@ button {
 .timeline .hexa:after {
   border-left-width: 8px;
   border-right-width: 8px;
-  border-top: 4px solid #00cdac;
+  border-top: 4px solid #1166a3;
   bottom: -4px;
 }
 
@@ -233,14 +232,14 @@ button {
 }
 
 .time {
-  background: linear-gradient(to bottom, #02aab0 0%, #00cdac 100%);
+  background: linear-gradient(to bottom, #068BEA 0%, #1166a3 100%);
   display: inline-block;
   padding: 8px;
 }
 
 .marks {
   font-weight: 500;
-  color: #02aab0;
+  color: #068BEA;
 }
 
 .desc {
@@ -648,7 +647,7 @@ button {
   border-radius: 2px;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  border-left: 3px solid #02aab0;
+  border-left: 3px solid #068BEA;
   min-height: 75px;
   box-shadow: 0px 12px 49px 0px rgba(36, 7, 31, 0.11);
 }
@@ -659,8 +658,8 @@ button {
   font-size: 12px;
   font-weight: bold;
   border-radius: 2px;
-  border: 1px solid #02aab0;
-  color: #02aab0;
+  border: 1px solid #068BEA;
+  color: #068BEA;
   background-color: #FFF;
 }
 
@@ -671,7 +670,7 @@ button {
 .readmore-button:hover {
   box-shadow: 0px 5px 10px 0px rgba(36, 7, 31, 0.21);
   transition: 0.3s all;
-  background-color: #02aab0;
+  background-color: #068BEA;
   color: #FFF;
 }
 
@@ -680,7 +679,7 @@ button {
   position: absolute;
   top: 40px;
   right: 37px;
-  fill: #02aab0;
+  fill: #068BEA;
   fill-opacity: 0.23;
 }
 
