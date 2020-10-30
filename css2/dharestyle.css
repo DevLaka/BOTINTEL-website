@@ -322,7 +322,7 @@ button {
   }
 
   .flag {
-    font-size: 15px;
+    font-size: 20px;
   }
 
   .direction-l .flag:after {
@@ -350,13 +350,8 @@ button {
     margin: 0;
   }
 
-  .direction-l .time-wrapper {
-    float: left;
-  }
+  
 
-  .direction-r .time-wrapper {
-    float: right;
-  }
 
   .time {
     padding: 5px 10px;
