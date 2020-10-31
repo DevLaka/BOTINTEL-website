@@ -168,7 +168,7 @@ h4 {
 }
 
 .navbar .navbar-collapse {
-    padding: 30px 0 0 0;
+    padding: 30px 0 20px 0;
 }
 
 .navbar .navbar-nav .nav-link {
@@ -225,7 +225,7 @@ h4 {
 }
 
 .navbar-light .navbar-collapse {
-    padding: 25px 0 0 0;
+    padding: 25px 0 15px 0;
 }
 
 .navbar-light .navbar-brand:hover {
@@ -857,5 +857,11 @@ FOOTER
 @media (max-width: 400px) {
     #video-popup .video-box .waves-block {
         display: none;
+    }
+}
+
+@media (min-width: 576px){
+    #custom-card-deck{
+        padding: 0 25% 0 25%
     }
 }
